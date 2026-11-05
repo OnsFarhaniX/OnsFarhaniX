@@ -68,47 +68,12 @@
 
 <!-- ================= GITHUB STATS ================= -->
 
-## 📊 GitHub Statistics
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OnsFarhaniX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnsFarhaniX&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-</div>
 
----
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-
-## 🔥 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OnsFarhaniX&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
-
-</div>
-
----
-
-<!-- ================= PROJECTS ================= -->
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/OnsFarhaniX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnsFarhaniX&repo=REPLACE_WITH_YOUR_REPOSITORY&theme=tokyonight&hide_border=true" alt="Featured Project"/>
-</a>
-
-</div>
-
-<p align="center">
-  More projects coming soon!
-</p>
-
----
 
 <!-- ================= CONNECT ================= -->
 
