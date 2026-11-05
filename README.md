@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- CUSTOM DATA SCIENCE BANNER -->
-<img src="./assets/data-science-banner.png" width="100%" alt="Ons Farhani - Data Science Banner"/>
+<img src="./data-science-banner.png.png" width="100%" alt="Ons Farhani - Data Science Banner"/>
 
 <br/>
 
